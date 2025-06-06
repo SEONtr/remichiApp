@@ -5,7 +5,7 @@
     "version": "1.0.5",
     "translator": "Jane Doe",
     "description": "Battle enemies in space with powerful weapons and upgrades.",
-    "icon": "https://example.com/icons/spacewar.png",
+    "icon": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2020/06/bully.jpg",
     "downloadUrl": "https://example.com/downloads/spacewar.apk"
   },
   {
@@ -14,7 +14,7 @@
     "version": "2.3.1",
     "translator": "BuildStudios",
     "description": "Create and explore voxel worlds with infinite possibilities.",
-    "icon": "https://example.com/icons/blockbuilder.png",
+    "icon": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2020/06/bully.jpg",
     "downloadUrl": "https://example.com/downloads/blockbuilder.apk"
   },
   {
