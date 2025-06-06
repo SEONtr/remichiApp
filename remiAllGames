@@ -5,7 +5,7 @@
     "version": "1.0.5",
     "translator": "Jane Doe",
     "description": "Battle enemies in space with powerful weapons and upgrades.",
-    "icon": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2020/06/bully.jpg",
+    "icon": "http://static1.cbrimages.com/wordpress/wp-content/uploads/2020/06/bully.jpg",
     "downloadUrl": "https://example.com/downloads/spacewar.apk"
   },
   {
@@ -23,7 +23,7 @@
     "version": "3.0.0",
     "translator": "SpeedMasters",
     "description": "High-speed racing game with realistic tracks and cars.",
-    "icon": "https://example.com/icons/furytrack.png",
+    "icon": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2020/03/Road-To-Survival.jpg",
     "downloadUrl": "https://example.com/downloads/furytrack.apk"
   }
 ]
