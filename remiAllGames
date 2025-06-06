@@ -1,0 +1,29 @@
+[
+  {
+    "id": "com.gamedev.spacewar",
+    "name": "Space War",
+    "version": "1.0.5",
+    "translator": "Jane Doe",
+    "description": "Battle enemies in space with powerful weapons and upgrades.",
+    "icon": "https://example.com/icons/spacewar.png",
+    "downloadUrl": "https://example.com/downloads/spacewar.apk"
+  },
+  {
+    "id": "com.funpixel.blockbuilder",
+    "name": "Block Builder",
+    "version": "2.3.1",
+    "translator": "BuildStudios",
+    "description": "Create and explore voxel worlds with infinite possibilities.",
+    "icon": "https://example.com/icons/blockbuilder.png",
+    "downloadUrl": "https://example.com/downloads/blockbuilder.apk"
+  },
+  {
+    "id": "com.racing.furytrack",
+    "name": "Fury Track",
+    "version": "3.0.0",
+    "translator": "SpeedMasters",
+    "description": "High-speed racing game with realistic tracks and cars.",
+    "icon": "https://example.com/icons/furytrack.png",
+    "downloadUrl": "https://example.com/downloads/furytrack.apk"
+  }
+]
