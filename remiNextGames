@@ -8,9 +8,9 @@
     "translator": "Remi",
     "coin": "50",
     "size": "2,8G",
-    "translatedFile": "8",
+    "translatedFile": "0",
     "totalFile": "50",
-    "extra": "8/10 Çevirildi"
+    "extra": "Bazı hatalar yüzünden çeviri başlamadı.."
   },
 {
   "id": "com.telltalegames.walkingdead100",
@@ -21,9 +21,9 @@
   "translator": "miHoYo",
   "coin": "300",
   "size": "3.4G",
-  "translatedFile": "10",
-  "totalFile": "120",
-  "extra": "Bazı hatalar çözülüyor."
+  "translatedFile": "100",
+  "totalFile": "100",
+  "extra": ""
 }
 
   ]
